@@ -8,3 +8,9 @@ https://www.staff.ncl.ac.uk/d.j.wilkinson/teaching/mas131/bignotes.pdf are some 
 
 https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/ is an open MIT course, but might be a bit too advanced
 
+
+
+---
+
+# Analyze math
+
