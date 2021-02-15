@@ -6,12 +6,6 @@
 - Sharing my thoughts with my accountability partner I will demonstrate I have achieved this by writing key reflections and uploading them as evidence.
 
 
---- 
-
-
-
-- [Mural Canvas](https://app.mural.co/t/dxcukimeacttrialworkspace2238/m/dxcukimeacttrialworkspace2238/1611935976931/3c1094fa0a3777a8f0d96fa85f0baacc6ba06f64)
-
 
 ---
 
@@ -43,6 +37,12 @@ The final dashboard presents a single viewpoint for an employee, this doesn't fo
 
 ---
 
+
+Pre reading
+
+- [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w)
+- [The beauty of data visualization - David McCandless](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
+- [TechSpark Visualising the Invisible](TechSpark%20Visualising%20the%20Invisible.pdf)
 
 
 
