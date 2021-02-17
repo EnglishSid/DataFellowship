@@ -1,5 +1,5 @@
 
-# Making Remote Collaboration Work Webinar I 26th March 2020
+# Resource Centre | Communication | Making Remote Collaboration Work Webinar
 
 
 Let's go cards - https://www.letsgo.so/cards
