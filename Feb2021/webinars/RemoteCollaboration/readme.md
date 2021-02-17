@@ -4,11 +4,9 @@
 
 Let's go cards - https://www.letsgo.so/cards
 
-
-
 ### "remote working" & "remote working in a global pandemic" are 2 very different things
 
-there are 5 key things for a remote team.
+There are 5 key things for a remote team.
 
 1. **belief** : Why is this worth committing to?
 2. **care**
@@ -42,7 +40,7 @@ there are 5 key things for a remote team.
 
 
 - Concerned about people working in the background?
-  - Maybe ask what is wrong with the meeting?
+  - Maybe think about what is wrong with the (your) meeting?
   - but it's also ok
 
 
